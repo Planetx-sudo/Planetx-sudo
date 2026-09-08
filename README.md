@@ -1,16 +1,49 @@
-## Hi there 👋
+# 👋 Hey, I'm Planetx-sudo 🌍
 
-<!--
-**Planetx-sudo/Planetx-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Computer Science Student | Developer in Progress
 
-Here are some ideas to get you started:
+> Building, breaking, learning, and improving — one line of code at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I'm a Computer Science student passionate about technology, programming,
+and understanding how things work behind the screen.
+
+- 🐍 Currently learning Python
+- ⚙️ Building my skills in C/C++
+- 🌐 Exploring HTML & CSS
+- 🌐 Learning Computer Networking
+- 🐧 Exploring Git, GitHub & Linux
+- 🧠 Always learning and experimenting
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Languages
+`Python` `C` `C++` `HTML` `CSS`
+
+### Tools & Technologies
+`Git` `GitHub` `VS Code` `Cisco Packet Tracer`
+
+---
+
+## 🎯 Current Mission
+
+**Learn → Build → Break → Debug → Improve → Repeat.**
+
+---
+
+## 📌 Projects
+
+🚧 More projects coming soon...
+
+---
+
+## 🌍 Planetx-sudo
+
+> *The journey has just begun.*
+
+⭐ Thanks for stopping by!
